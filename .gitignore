@@ -67,3 +67,5 @@
 /Makefile.old
 /missing
 /stamp-h1
+
+*.DS_Store
